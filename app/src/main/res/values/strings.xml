@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ControlSwitchPrototipo</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_registro_grupos">registroGrupos</string>
+    <string name="btn1">GRUPO SIN ASIGNAR</string>
+    <string name="btnObj">SIN ASIGNAR</string>
+    <string name="btnon">ON</string>
+    <string name="btnoff">OFF</string>
+    <string name="CambiarNomTitulo">Nuevo nombre para el grupo</string>
+    <string name="msjCamNom">Escribe el nuevo nombre para el grupo</string>
+    <string name="btnAceptar">Aceptar</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_grupo1">Grupo1</string>
+</resources>
